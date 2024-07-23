@@ -1,4 +1,4 @@
 # node-docker
 This is just my first nodejs docker image project files
-# install npm install express
-#then run node index.js
+Install npm express using npm install express
+Then run node index.js
